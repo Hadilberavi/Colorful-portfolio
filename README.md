@@ -30,6 +30,8 @@
 
 This is the personal portfolio website of **Hadel Berawi**, a web developer and student at Bitlis Eren University. It is a single-page site written entirely in hand-coded HTML, CSS, and JavaScript, with no frameworks and no build step. The focus is a clean, playful design with smooth animations and a fully responsive layout.
 
+> **🌱 A learning project:** This project represents one of my first steps into programming and web development. I created it as part of my learning journey, putting the fundamentals of HTML, CSS, and JavaScript into practice.
+
 The page is organized into four sections:
 
 | Section | Description |
