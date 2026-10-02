@@ -1,15 +1,15 @@
 <div align="center">
 
-# Frontend Portfolio
+# Colorful Portfolio
 
 **A responsive, animated personal portfolio website built with HTML, CSS, and vanilla JavaScript.**
 
-### [🔗 View Live Demo](https://hadilberavi.github.io/frontend-portfolio/)
+### [🔗 View Live Demo](https://hadilberavi.github.io/Colorful-portfolio/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![Deployed on GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://hadilberavi.github.io/frontend-portfolio/)
+[![Deployed on GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://hadilberavi.github.io/Colorful-portfolio/)
 
 </div>
 
@@ -71,7 +71,7 @@ All third-party libraries are loaded from CDNs. There are no package dependencie
 ## Project Structure
 
 ```text
-frontend-portfolio/
+Colorful-portfolio/
 ├── index.html      # Single-page markup (Home, About, Skills, Contact)
 ├── css/
 │   └── style.css   # Styles, animations, and responsive breakpoints
@@ -88,8 +88,8 @@ Nothing needs to be installed or built. The site runs in any modern browser.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Hadilberavi/frontend-portfolio.git
-   cd frontend-portfolio
+   git clone https://github.com/Hadilberavi/Colorful-portfolio.git
+   cd Colorful-portfolio
    ```
 
 2. **Open the site**
@@ -108,7 +108,7 @@ Nothing needs to be installed or built. The site runs in any modern browser.
 
 The site is deployed with **GitHub Pages**, served directly from the root of the `main` branch. The live site is built from exactly the files in this repository, with no build step and no separate deployment folder.
 
-- **Live URL:** [https://hadilberavi.github.io/frontend-portfolio/](https://hadilberavi.github.io/frontend-portfolio/)
+- **Live URL:** [https://hadilberavi.github.io/Colorful-portfolio/](https://hadilberavi.github.io/Colorful-portfolio/)
 - **Automatic updates:** every push to `main` triggers a new GitHub Pages deployment.
 
 To deploy your own copy:
@@ -116,7 +116,7 @@ To deploy your own copy:
 1. Fork this repository.
 2. Go to **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to **Deploy from a branch**, then select the **`main`** branch and the **`/ (root)`** folder.
-4. Click **Save**. Your site will be live at `https://<your-username>.github.io/frontend-portfolio/` within a few minutes.
+4. Click **Save**. Your site will be live at `https://<your-username>.github.io/Colorful-portfolio/` within a few minutes.
 
 ## Roadmap
 
